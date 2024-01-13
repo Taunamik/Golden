@@ -1,0 +1,100 @@
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+  address {
+    font-style: normal;
+  }
+  body{
+    margin: 0 auto;
+  }
+  .logo{
+    font-family: Bilbo Swash Caps;
+font-size: 36px;
+font-weight: 400;
+line-height: 41px;
+letter-spacing: 1.2999999523162842px;
+text-align: center;
+color: #FED136;
+}
+header{
+    padding-bottom: 60px;
+    margin-bottom: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav-list-link{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FED136;
+}
+.nav-list{
+    display: flex;
+    gap: 50px;
+    margin-left: 276px;
+}
+.text-logo{
+    font-family: Roboto;
+font-size: 40px;
+font-weight: 700;
+line-height: 75px;
+letter-spacing: -1px;
+text-align: center;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-bottom: 87px;
+}
+.work-list-text1{
+    font-family: Roboto;
+font-size: 18px;
+font-weight: 700;
+letter-spacing: -0.44999998807907104px;
+text-align: center;
+color: #222222;
+}
+img{
+    margin-left:95px ;
+}
+.work-list-text2{
+    font-family: Roboto;
+font-size: 14px;
+letter-spacing: -0.3499999940395355px;
+text-align: center;
+color: #777777;
+}
+.work-list-item{
+    width: 274px;
+}
+.work-list{
+    width:1085px;
+    margin-left: 700px;
+    gap: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 119px
+}
+footer{
+    background-color: #222222;
+}
+.text-logo2{
+    font-family: Roboto;
+font-size: 40px;
+font-weight: 700;
+line-height: 49px;
+letter-spacing: -1px;
+text-align: left;
+color: #FFFFFF;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 114px;
+}
